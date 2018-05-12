@@ -22,6 +22,6 @@ O trabalho está dividido em duas partes:
 
 * [**Parte 2**](https://github.com/anacwagner/Kaggle_TalkingData/blob/master/2_Análise_Exploratória_dos_Dados.ipynb): Análise Exploratória dos Dados
 
-* Parte 3 - Em andamento!
+* [**Parte 3**] - (https://github.com/anacwagner/Kaggle_TalkingData/blob/master/3_Análise_Preditiva_dos_Dados.ipynb): Análise Preditiva dos Dados 
 
 
